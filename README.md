@@ -1,36 +1,46 @@
-# 慧见 WISESIGHT 外链收录自动检测
+# 慧见 WISESIGHT 外链收录检测报告
 
-每天自动检测各平台是否收录了慧见的产品页面，结果自动推送到本仓库。
+> 自动检测日期: **2026-06-25**  |  检测方法: **google_custom**  |  产品官网: [wisesme.cn](https://wisesme.cn)
 
-## 📊 最新检测结果
+## 📊 检测结果汇总
 
-查看 [README.md](./README.md) 获取最新检测报告。
+| 状态 | 数量 |
+|------|------|
+| ✅ 已收录 | **0** |
+| ❌ 未收录 | **0** |
+| ⚠️ 检测失败 | **20** |
+| 合计 | **20** |
 
-历史检测结果在 `results/` 目录下，按日期命名：`results/YYYY-MM-DD.json`。
+## ✅ 已收录平台
 
-## 🔧 配置
+（暂无）
 
-### 使用 Google Custom Search API（推荐，更准确）
+## ❌ 未收录平台（需跟进）
 
-在 GitHub 仓库 Settings → Secrets and variables → Actions 里添加：
+（全部已收录！🎉）
 
-- `GOOGLE_API_KEY` — [申请地址](https://console.cloud.google.com/apis/credentials)
-- `GOOGLE_CSE_ID` — [创建自定义搜索引擎](https://programmablesearchengine.google.com/)
+## ⚠️ 检测失败（需手动复核）
 
-免费额度：100 次/天，足够检测 ~20 个平台。
+- There's An AI For That: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- Futurepedia: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- ListMyAI: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- Uneed: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- AI Tools Directory: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- Supertools: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- All Things AI: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- GPTs Hunter: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- AIGC Open: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- AITOP100: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- AI工具集: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- Toolify中文版: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- 办公人导航: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- AIBase: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- Product Hunt: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- G2: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- AlternativeTo: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- SourceForge: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- Capterra: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
+- 知乎专栏: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
 
-### 不使用 API（默认 DuckDuckGo）
-
-无需配置，直接使用 DuckDuckGo 搜索检测（免费，但准确性略低）。
-
-## 📅 自动运行时间
-
-- **每天 UTC 01:00**（北京时间 09:00）
-- 也可在 Actions 页面手动触发（Run workflow）
-
-## 📦 本地运行
-
-```bash
-pip install -r requirements.txt
-python check_index.py
-```
+---
+*由 GitHub Actions 自动生成，最后更新: 2026-06-25 | 方法: google_custom*
