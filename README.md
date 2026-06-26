@@ -1,6 +1,6 @@
 # 慧见 WISESIGHT 外链收录检测报告
 
-> 自动检测日期: **2026-06-25**  |  检测方法: **google_custom**  |  产品官网: [wisesme.cn](https://wisesme.cn)
+> 自动检测日期: **2026-06-26**  |  检测方法: **google_custom**  |  产品官网: [wisesme.cn](https://wisesme.cn)
 
 ## 📊 检测结果汇总
 
@@ -43,4 +43,4 @@
 - 知乎专栏: `403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1?`
 
 ---
-*由 GitHub Actions 自动生成，最后更新: 2026-06-25 | 方法: google_custom*
+*由 GitHub Actions 自动生成，最后更新: 2026-06-26 | 方法: google_custom*
