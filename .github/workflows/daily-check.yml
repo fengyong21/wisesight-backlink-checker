@@ -33,6 +33,16 @@ jobs:
           GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
         run: python check_index.py
 
+      - name: Copy results to latest.json (for sync API)
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          if [ -f "results/${TODAY}.json" ]; then
+            cp "results/${TODAY}.json" results/latest.json
+            echo "Copied ${TODAY}.json -> latest.json"
+          else
+            echo "Warning: No results file for today"
+          fi
+
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"
