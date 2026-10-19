@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-19",
+  "product": "慧见 WISESIGHT",
+  "method": "bing",
+  "results": [
+    {
+      "platform": "There's An AI For That",
+      "platform_url": "https://theresanaiforthat.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:24:51.742309Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "Futurepedia",
+      "platform_url": "https://www.futurepedia.io",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:24:57.942678Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "ListMyAI",
+      "platform_url": "https://listmyai.net",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:02.647862Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "Uneed",
+      "platform_url": "https://www.uneed.best",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:07.538971Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "AI Tools Directory",
+      "platform_url": "https://www.aitoolsdirectory.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:12.409732Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "Supertools",
+      "platform_url": "https://supertools.ai",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:17.720941Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "All Things AI",
+      "platform_url": "https://allthingsai.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:22.253425Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "GPTs Hunter",
+      "platform_url": "https://www.gptshunter.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:26.496757Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "AIGC Open",
+      "platform_url": "https://www.aigc.cn",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:32.926937Z",
+      "method": "bing",
+      "found": false,
+      "count": 1,
+      "found_urls": [
+        "https://www.bing.com/webmaster/info/missinginfo"
+      ]
+    },
+    {
+      "platform": "AITOP100",
+      "platform_url": "https://www.aitop100.cn",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:36.237399Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "AI工具集",
+      "platform_url": "https://ai-bot.cn/tools",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:40.710411Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "Toolify中文版",
+      "platform_url": "https://www.toolify.ai/zh",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:44.729586Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "办公人导航",
+      "platform_url": "https://www.bgrdh.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:50.108282Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "AIBase",
+      "platform_url": "https://www.aibase.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:53.720771Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "Product Hunt",
+      "platform_url": "https://www.producthunt.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:25:58.610450Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "G2",
+      "platform_url": "https://www.g2.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:26:05.993499Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "AlternativeTo",
+      "platform_url": "https://alternativeto.net",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:26:12.672343Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "SourceForge",
+      "platform_url": "https://sourceforge.net",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:26:18.379986Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "Capterra",
+      "platform_url": "https://www.capterra.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:26:25.371884Z",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    },
+    {
+      "platform": "知乎专栏",
+      "platform_url": "https://www.zhihu.com",
+      "product": "慧见 WISESIGHT",
+      "product_domain": "wisesme.cn",
+      "checked_at": "2026-10-19T05:26:30.396152Z",
+      "article_url": "https://www.zhihu.com/answer/2053180865660850816",
+      "method": "bing",
+      "found": false,
+      "count": 0,
+      "found_urls": []
+    }
+  ]
+}
